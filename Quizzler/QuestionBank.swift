@@ -3,7 +3,6 @@
 //  Quizzler
 //
 //  Created by Jesus Perez on 6/19/18.
-//  Copyright © 2018 London App Brewery. All rights reserved.
 //
 
 import Foundation
